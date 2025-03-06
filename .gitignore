@@ -1,0 +1,65 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+.npm/
+
+# Build output
+dist/
+build/
+out/
+
+# Cache and logs
+.cache/
+.temp/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor and IDE files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing
+coverage/
+.nyc_output/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Local development
+*.local
+
+# Vite
+.vite/
+
+# Vue
+.vue-meta/
+
+# Optional: package manager lock files
+# Uncomment if you want to ignore them
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml 

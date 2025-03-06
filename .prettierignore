@@ -1,0 +1,11 @@
+/dist/*
+.local
+.output.js
+/node_modules/**
+/uni_modules/**
+/uview-ui/**
+
+**/*.svg
+**/*.sh
+
+/public/*
