@@ -15,7 +15,6 @@ import { initPlugins } from './utils/plugins'
 import checkRedirect from './utils/checkRedirect'
 
 const app = createApp(App)
-redirect
 app.use(router)
 app.use(pinia)
 app.use(i18n)
