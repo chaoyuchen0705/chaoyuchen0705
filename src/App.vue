@@ -45,6 +45,7 @@ import Header from './components/common/Header.vue'
 import Sidebar from './components/common/Sidebar.vue'
 import Preloader from './components/common/Preloader.vue'
 import { getAssetUrl } from './utils/image'
+import useProjectStore from '@/store/modules/project'
 
 // 使用工具函数获取图片 URL
 const headerImage = getAssetUrl('img/image_header.jpg')
@@ -71,8 +72,14 @@ const handleScroll = () => {
   parallaxY.value = scrollPosition * 0.3
 }
 
+const loadGlobalData = () => {
+  const projectStore = useProjectStore()
+  projectStore.initializeProjects()
+}
+
 onMounted(() => {
   window.addEventListener('scroll', handleScroll)
+  loadGlobalData()
 })
 
 onUnmounted(() => {

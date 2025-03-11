@@ -24,5 +24,6 @@ app.mount('#app')
 // 在 Vue 应用挂载后初始化插件
 router.isReady().then(() => {
   initPlugins()
+  // 检查路由是否存在重定向
   checkRedirect(router)
 })

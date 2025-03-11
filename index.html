@@ -5,26 +5,6 @@
     <link rel="icon" type="image/svg+xml" href="/favicon.avif" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Chaoyu Chen - Portfolio</title>
-    <!-- <script type="text/javascript">
-      // 单页应用 GitHub Pages 路由处理
-      ;(function (l) {
-        console.log('---------------- 路由处理 ----------------')
-        console.log('🎯🎯🎯 l: ', JSON.parse(JSON.stringify(l)))
-        if (l.pathname.split('/').length > 2) {
-          var segment = l.pathname.split('/')[2]
-          console.log('🎯🎯🎯 segment: ', JSON.parse(JSON.stringify(segment)))
-          if (segment !== 'index.html' && segment !== '') {
-            sessionStorage.redirect = l.pathname + l.search + l.hash
-            console.log(
-              '🎯🎯🎯 sessionStorage: ',
-              JSON.parse(JSON.stringify(sessionStorage))
-            )
-            l.href = l.origin + '/' + l.pathname.split('/')[1] + '/index.html'
-            console.log('🎯🎯🎯 l.href: ', JSON.parse(JSON.stringify(l.href)))
-          }
-        }
-      })(window.location)
-    </script> -->
   </head>
   <body>
     <script>
@@ -35,27 +15,6 @@
     </script>
     <div id="app"></div>
     <script type="module" src="/src/main.js"></script>
-    <!-- <script>
-      // 恢复路由
-      ;(function () {
-        console.log('---------------- 恢复路由 ----------------')
-        console.log(
-          '🎯🎯🎯 sessionStorage: ',
-          JSON.parse(JSON.stringify(sessionStorage))
-        )
-        var redirect = sessionStorage.redirect
-        console.log('🎯🎯🎯 redirect: ', JSON.parse(JSON.stringify(redirect)))
-        delete sessionStorage.redirect
-        console.log(
-          '🎯🎯🎯 sessionStorage: ',
-          JSON.parse(JSON.stringify(sessionStorage))
-        )
-        if (redirect && redirect !== location.href) {
-          console.log('恢复')
-          history.replaceState(null, null, redirect)
-        }
-      })()
-    </script> -->
   </body>
   <!-- 添加第三方库 -->
   <script src="/js/jquery-3.4.1.min.js"></script>

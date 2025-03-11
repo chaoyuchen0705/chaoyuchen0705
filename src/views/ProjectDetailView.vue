@@ -81,6 +81,7 @@ import { getAssetUrl } from '../utils/image'
 
 const { t } = useI18n()
 const projectStore = useProjectStore()
+
 const route = useRoute()
 
 const projectId = computed(() => route.params.id)

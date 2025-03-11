@@ -28,10 +28,10 @@ const router = createRouter({
       component: ProjectDetailView,
       props: true,
     },
-    // 添加一个通配符路由，重定向到首页
     {
       path: '/:pathMatch(.*)*',
       redirect: (to) => {
+        // history 模式路由重定向，如：/chaoyuchen0705/resume => /resume
         return { path: to.path.replace(/\/chaoyuchen0705/g, '') }
       },
     },
