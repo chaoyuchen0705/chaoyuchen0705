@@ -1,0 +1,267 @@
+{
+  "header": {
+    "title": "Chaoyu Chen",
+    "status": "Policy Planning Consultant",
+    "email": "Email",
+    "location": "Location",
+    "locationValue": "SUZHOU JIANGSU"
+  },
+  "nav": {
+    "about": "About",
+    "resume": "Resume",
+    "projects": "Projects"
+  },
+  "about": {
+    "title": "About Me",
+    "introduction1": "Hi, I'm Chaoyu Chen. I graduated from the University of Illinois at Urbana-Champaign with a bachelor's degree in urban planning with a concentration in policy and planning.",
+    "introduction2": "During my studies, I gained in-depth knowledge of economics, politics, law, data modeling and analysis, and other fields, and combined with practical experience, I gained a deeper understanding of the operating principles of cities and societies. These learning experiences have equipped me with the ability to analyze problems and develop solutions from multiple dimensions. In my future career development, I hope to continue to learn new knowledge, improve my practical work ability, and create greater value for society through innovative planning and practice.",
+    "whatImDoing": "What I'm Doing",
+    "skills": {
+      "title": "My Skills",
+      "policy": "Policy Analysis",
+      "research": "Research",
+      "planning": "Strategic Planning",
+      "communication": "Communication",
+      "management": "Project Management"
+    },
+    "services": {
+      "title": "My Services",
+      "consulting": {
+        "title": "Policy Consulting",
+        "description": "Providing expert advice on policy development and implementation."
+      },
+      "research": {
+        "title": "Policy Research",
+        "description": "Conducting in-depth research to inform policy decisions."
+      },
+      "evaluation": {
+        "title": "Policy Evaluation",
+        "description": "Assessing the effectiveness and impact of existing policies."
+      },
+      "urbanPlanning": {
+        "title": "Urban Planning & Policy Design",
+        "description": "I focus on urban planning and policy design, combining modern planning methods to carry out the overall design of land use, urban development and infrastructure construction to ensure that planning schemes can effectively promote sustainable urban development."
+      },
+      "economicAnalysis": {
+        "title": "Urban Economic Analysis",
+        "description": "I deeply study urban economics, and use economic theories and data analysis methods to analyze urban resource allocation, land use, public policy and financial management, so as to support scientific decision-making and policy optimization."
+      },
+      "dataModeling": {
+        "title": "Data Modeling & Urban Forecasting",
+        "description": "I apply data modeling and analysis techniques to forecast urban development trends, including population flow, transportation demand and environmental changes, and provide data-based decision support to promote smarter urban management and development."
+      },
+      "UrbanLaw": {
+        "title": "Urban Law & Policy Compliance",
+        "description": "I study laws and regulations related to urban development, ensure that all planning and policies comply with current legal requirements, and commit to providing compliance advice to governments and enterprises to ensure the legality and effectiveness of policy implementation."
+      }
+    },
+    "testimonials": "Testimonials",
+    "name01": "Daniel Lewis",
+    "evaluate01": "Chaoyu Chen has been instrumental in developing our city planning strategies. His ability to analyze complex urban issues from multiple angles has truly impressed the team.",
+    "name02": "Jessica Miller",
+    "evaluate02": "Working with Chaoyu on our urban policy projects was a pleasure. His insights into economic and legal aspects provided us with a well-rounded approach that significantly improved our outcomes.",
+    "name03": "Tanya Ruiz",
+    "evaluate03": "Chaoyu's expertise in data modeling and urban forecasting was crucial for our planning process. His analytical skills helped us make more informed, data-driven decisions.",
+    "name04": "Thomas Castro",
+    "evaluate04": "We were extremely impressed with Chaoyu's ability to combine practical experience with theoretical knowledge. His contributions have been invaluable in shaping our projects and policies."
+  },
+  "resume": {
+    "title": "Resume",
+    "education": {
+      "title": "Education",
+      "university": "University Name",
+      "period": "2015 — 2019",
+      "description": "Degree and Major Description",
+      "uiuc": {
+        "name": "University of Illinois Urbana-Champaign (U.S. News 35)",
+        "major": "Bachelor of Arts in Urban Studies & Planning (Concentration in Policy & Planning)",
+        "period": "Champaign, Illinois Dec 2024 - Present",
+        "courses": "Undergraduate Courses: Urban Planning Policy Studies; Urban Planning and Design; Land Policy and Planning; Seminar on Sustainable Development Planning; Mathematical Calculus; Macroeconomics; Microeconomics; Monetary Policy; Statistics."
+      }
+    },
+    "experience": {
+      "title": "Work Experience",
+      "company": "Company Name",
+      "period": "2019 — Present",
+      "description": "Position and Responsibilities Description",
+      "yuyuan": {
+        "title": "Executive Assistant",
+        "company": "Wujiang Yuyuan Weaving Dye & Print Co Ltd.",
+        "period": "May 2024 – Aug 2024",
+        "responsibilities": {
+          "1": "Processed and approved 10 more business contracts, ensuring compliance with company standards and accuracy.",
+          "2": "Managed 5 more important documents each week, streamlining administrative processes and keeping records organized.",
+          "3": "Supported the General Manager in one large project evaluation, including the construction of a sewage treatment plant, providing insight for strategic decision-making.",
+          "4": "Oversaw daily business communication, enhanced team coordination, and facilitated project progress tracking."
+        }
+      },
+      "sinolink": {
+        "title": "Assistant Customer Manager",
+        "company": "Sinolink Securities Co Ltd. Suzhou Branch",
+        "period": "May 2023 – Aug 2023",
+        "responsibilities": {
+          "1": "Utilized Excel, R Studio, Python to collect and integrate financial information on publicly listed company in Wind.",
+          "2": "Assisted the manager in evaluated the customer's financial situation and investment objectives, and customized suitable financial management plan.",
+          "3": "Developed investment plans to achieve client goals in wealth appreciation and asset preservation.",
+          "4": "Collaborated with the manager to complete two 30-pages presentation reports."
+        }
+      },
+      "minsheng": {
+        "title": "Assistant Corporate Banking",
+        "company": "China Minsheng Bank Suzhou Branch",
+        "period": "May 2021 – Aug 2021",
+        "responsibilities": {
+          "1": "Reviewed and assessed loan applications for over 5 companies across real estate, laser cutting, and metal materials sectors, ensuring data completeness and regulatory compliance.",
+          "2": "Reviewed audit and tax reports, ensuring accuracy and regulatory compliance for loan applications. Collected information on judicial cases and potential legal violations to assess applicant risk.",
+          "3": "Assisted with manager in reviewing loan applications for five local companies, totaling 114 million CNY."
+        }
+      },
+      "bijian": {
+        "title": "Marketing Sales",
+        "company": "Suzhou Bijian Trading Company",
+        "period": "May 2020 – Aug 2020",
+        "responsibilities": {
+          "1": "Conducted demand analysis, enhancing product listings and selling exceed 100 home decorations successful entries on e-commerce platforms, contributing to a 70% increase in customer engagement.",
+          "2": "Updated ERP systems to upload and manage inventory, aligning product availability with demand trends.",
+          "3": "Utilized data analysis to identify key market trends on Amazon, providing strategic insights that helped achieve 30% in sales revenue."
+        }
+      }
+    },
+    "skills": {
+      "title": "My Skills & INTERESTS",
+      "msoffice": {
+        "name": "MS Office"
+      },
+      "arcgis": {
+        "name": "ArcGIS"
+      },
+      "illustrator": {
+        "name": "Adobe Illustrator"
+      },
+      "sketchup": {
+        "name": "Sketchup"
+      },
+      "rstudio": {
+        "name": "RStudio"
+      },
+      "golf": {
+        "name": "Golf Ball"
+      }
+    },
+    "awards": {
+      "title": "Awards",
+      "award1": {
+        "title": "Outstanding Achievement Award",
+        "year": "2022",
+        "description": "Recognized for exceptional contributions to policy development."
+      },
+      "award2": {
+        "title": "Research Excellence Award",
+        "year": "2020",
+        "description": "Awarded for innovative research in policy planning."
+      }
+    }
+  },
+  "projects": {
+    "title": "Projects",
+    "viewDetails": "View Details",
+    "backToProjects": "Back to Projects",
+    "notFound": "Project Not Found",
+    "footer": "Work bt Chaoyu Chen",
+    "items": [
+      {
+        "address": "Champaign Illinois",
+        "title": "In-Town Neighborhood Zoning Redevelopment Proposal",
+        "galleryPostListLength": 16,
+        "texts": [
+          "This project focuses on the transformation of the In-Town Neighborhood in the city of Champaign. It aims to increase the residential density, functional diversity and economic vitality of the community by optimizing land use and zoning regulations. The study starts from the existing land use and property conditions, analyzes the distribution of residential, commercial and parking facilities in the area, and comprehensively evaluates the existing conditions through zoning maps, building coverage rates and space utilization models.",
+          "The project proposes new zoning designs, including mixed-use zoning such as \"IT-MR1\", \"IT-MR2\" and \"IT-MX\", which aim to achieve efficient use of land resources by increasing the number of residential units, introducing medium- and high-rise buildings, and optimizing the allocation of parking and public spaces. The design plan is refined to the building height, footprint and number of housing units on each plot, and the layout of the transformed area is shown through 3D models and visual maps."
+        ]
+      },
+      {
+        "address": "Champaign Illinois",
+        "title": "Improving Transportation and Parking Systems in the UIUC Campus",
+        "galleryPostListLength": 5,
+        "texts": [
+          "This project focuses on the transportation and parking issues in the Green Street area of the University of Illinois at Urbana-Champaign, and improves the accessibility and utilization efficiency of the area through intelligent and sustainable design strategies. With the annual increase in the number of students at the university, especially the growth of international students, Green Street has become a vibrant center with extremely high pedestrian traffic. However, limited parking space and frequent pedestrian-vehicle conflicts have led to significant traffic pressure, which urgently needs to be solved through innovative solutions.",
+          "The project proposes three major directions for improvement: First, an intelligent delivery vehicle parking management system is designed to regulate short-term parking behavior through real-time monitoring by cameras and dynamic time management. Second, an electronic parking system (E-parking) is developed, which combines sensors with real-time data display to optimize the use of parking spaces and provide a reservation function to reduce the time spent searching for parking spaces. Finally, the construction of underground parking garages is explored to increase parking capacity while freeing up surface space to create a safer and friendlier environment for pedestrians. Combining these solutions, the proposal not only alleviates the current traffic and parking pressures, but also provides flexible and sustainable support for future regional development."
+        ]
+      },
+      {
+        "address": "Urbana Illinois",
+        "title": "Mixed-Use Redevelopment Proposal",
+        "galleryPostListLength": 4,
+        "texts": [
+          "The project aims to redevelop a strategic 85,724-square-foot site by demolishing and clearing the existing facilities to create a mixed-use development with multiple functions. Located in a newly established TIF (tax increment financing) area, the project includes plans for residences, apartments, commercial space, and a public parking lot. The development has a total floor area of 394,680 square feet and is planned to provide 215 apartments, accommodating about 404 residents, as well as 746 new jobs. The parking lot will provide 160 parking spaces to meet regional transportation needs.",
+          "The project is financed through TIF and is expected to contribute $19.046 million in tax increment by 2041. The total investment includes $2.678 million for public infrastructure improvements and $2 million for public parking facilities. In addition, the proposal not only increases the local housing supply and relieves the housing pressure in the community, but also optimizes transportation accessibility and enhances the vitality of the regional economy. The project makes full use of the financial incentives of the TIF area to ensure its economic feasibility and the overall interests of the community."
+        ]
+      },
+      {
+        "address": "Chicago Illinois",
+        "title": "Cost Benefit Analysis of a Light Rail Transit (LRT) Investment in Chicago",
+        "galleryPostListLength": 2,
+        "texts": [
+          "This project focuses on the cost-benefit analysis (CBA) of the Chicago Light Rail Transit (LRT) system, assessing the project's feasibility from both a financial and social perspective. The financial analysis shows that at a discount rate of 4.4%, the project's net present value (NPV) is -$43.84 million and the benefit-to-cost ratio (B/C ratio) is 0.99, indicating that the project's financial return is insufficient and the cost is higher than the revenue. Sensitivity analysis further shows that the discount rate and fare revenue have a significant impact on financial performance. When fare revenue reaches 23 million US dollars, the project can break even.",
+          "From a social benefit perspective, the Chicago LRT project demonstrates its potential to alleviate traffic congestion, reduce carbon emissions and create jobs. Based on a discount rate of 2%, the project's net social present value (NPV) is 621 million US dollars, and the B/C ratio is 1.31, indicating that the social benefits far outweigh the costs. Taking into account both financial and social impacts, it is recommended to re-examine key financial assumptions, explore alternative funding channels, and adopt a phased implementation strategy to balance the economic feasibility and social value of the project, while strengthening cooperation and communication with the community and stakeholders."
+        ]
+      },
+      {
+        "address": "Bay Area California",
+        "title": "Demographic Analysis and Population Projection of San Francisco-Oakland Berkeley Metropolitan Statis",
+        "galleryPostListLength": 4,
+        "texts": [
+          "In this project, I explored the regional population change trends and its future development potential through an in-depth analysis of the population data of the San Francisco-Oakland-Berkeley metropolitan statistical area (SOB-MSA). The study mainly covers the comparison of the population pyramid data in 2010 and 2020, revealing the continuous growth of the young labor force (ages 20-29) and the significant upward trend of the aging population. Using linear regression and other methods, we forecasted the region's future population growth and found that by 2050, the SOB-MSA's population could exceed 7 million. This growth is due to its favorable climate conditions, leading position in innovative technology, and strong economic appeal.",
+          "The project combines historical data, quantitative models and visualization results to highlight the diversity of the region's population structure and its positive impact on economic development. The research results not only provide decision-making support for urban planning and resource allocation, but also reflect potential changes in housing demand, traffic pressure and the demand for social services. This provides an important reference for optimizing urban development strategies and addressing the challenges of population change in the future."
+        ]
+      },
+      {
+        "address": "Champaign Illinois",
+        "title": "Single-family zoning analysis and optimization recommendations",
+        "galleryPostListLength": 2,
+        "texts": [
+          "In this project, as an Associate Planner, I completed a legal literature analysis of the City of Champaign's single-family zoning policy, exploring the feasibility of eliminating single-family zoning and its potential impact. The report covers the experience of other cities (such as Portland and Minneapolis) after the elimination of single-family zoning, analyzes the advantages and challenges of this policy, and proposes recommendations tailored to the specific needs of the City of Champaign. The policy is expected to improve land use efficiency, increase housing supply, promote community diversity and economic vitality through the introduction of diverse housing types and mixed-use development. However, it also needs to address issues such as community resistance, environmental impacts and land use conflicts.",
+          "During the analysis, I designed a community engagement strategy that proposed collecting opinions from residents and stakeholders through public hearings, online surveys, and social media. I also recommended conducting thorough urban planning and environmental assessments before implementation to ensure that land use adjustments are in line with sustainable development goals. Ultimately, my report provided the city planning committee with two possible decision-making directions: prioritizing residents' needs and optimizing land use, or relying on the planning committee to adjust in response to residents' feedback. Both emphasize the importance of community consensus and long-term development goals."
+        ]
+      },
+      {
+        "address": "City of Chicago Cook County",
+        "title": "Chicago and Cook County Spatial Data Analysis",
+        "galleryPostListLength": 8,
+        "texts": [
+          "Using GIS technology and spatial analysis methods, I conducted in-depth research on a number of key social and economic issues in Chicago and Cook County, and created a series of maps to visually display the results of the analysis. These analyses include neighborhood-level poverty distribution, hot and cold spots of housing needs, racial and population distribution, food desert distribution, and hot spots of the elderly population. Through these studies, I have revealed the socioeconomic differences between different communities in Chicago and Cook County, such as the relationship between poverty rates and rail transit coverage, racial segregation, and uneven distribution of resources, providing data support for the equitable allocation of social resources.",
+          "These maps not only highlight the economic inequality and the problem of resource allocation of social services in the Chicago area, but also provide an important basis for optimizing housing, transportation and public health policies. During the analysis process, I mastered GIS methods such as hotspot analysis and buffer zone calculation, and provided policymakers and urban planners with powerful decision-making tools through visualized results, while also further enhancing the ability of data-driven decision-making."
+        ]
+      },
+      {
+        "address": "Guangzhou China",
+        "title": "Guangzhou Urban Village Reform",
+        "galleryPostListLength": 1,
+        "texts": [
+          "In this project, I worked as a research analyst, responsible for collecting and organizing relevant materials, and compiling research results into visual reports to share with the class and professor on urban planning and renovation projects underway around the world. Specific tasks included researching the background of urban village formation, social issues and their impact on Guangzhou's urban development, with a particular focus on land use and residents' quality of life in the process of urbanization. Policy documents, research data and case studies were integrated to sort out the priorities and main challenges of urban village renovation, including infrastructure upgrades, social security support and the rational use of land resources.",
+          "With the acceleration of urbanization, a large number of rural residents have flocked to the city, and urban villages in Guangzhou have gradually become an important phenomenon in the transitional zone between the city and the countryside. These areas have attracted widespread attention due to their high population density, crowded living conditions and inadequate infrastructure. At the same time, the existence of urban villages has a negative impact on the efficiency of land use, social stability and image development in the city."
+        ]
+      }
+    ],
+    "project08": {
+      "p1": "Policies and actions:",
+      "li1": "Urban renewal plan: Demolish old buildings, upgrade infrastructure (water supply, power supply, drainage, sewage treatment, etc.), and improve the living environment of residents.",
+      "li2": "Rational land use: Avoid disorderly expansion and illegal occupation of land, and improve the efficiency of land resource utilization.",
+      "li3": "Social security support: Strengthen social security policies such as healthcare, insurance and education to support vulnerable groups.",
+      "li4": "Government and social capital cooperation: Provide financial support for the project through government funding support (such as policy loans) and the participation of commercial banks and real estate developers.",
+      "p2": "Major challenges:",
+      "li5": "Financing issues: Urban village transformation requires long-term low-interest rate financial support.",
+      "li6": "Social resistance: Rising real estate prices may lead to social conflicts, and it is necessary to balance the interests of all parties in policy formulation.",
+      "li7": "Culture and community protection: How to protect the unique historical and cultural characteristics of urban villages during the renovation process while reducing forced evictions and community division."
+    }
+  },
+  "language": {
+    "en": "en",
+    "zh": "中文"
+  },
+  "footer": {
+    "copyright": "© Present Chaoyu Chen"
+  },
+  "meta": {
+    "title": "Chaoyu Chen - Portfolio"
+  }
+}
