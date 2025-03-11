@@ -31,7 +31,9 @@ const router = createRouter({
     // 添加一个通配符路由，重定向到首页
     {
       path: '/:pathMatch(.*)*',
-      redirect: '/',
+      redirect: (to) => {
+        console.log('to: ', to)
+      },
     },
   ],
 })
