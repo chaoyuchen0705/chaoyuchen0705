@@ -13,7 +13,7 @@ import './assets/styles/style-demo.css'
 import { initPlugins } from './utils/plugins'
 
 const app = createApp(App)
-
+redirect
 app.use(router)
 app.use(pinia)
 app.use(i18n)
@@ -23,4 +23,5 @@ app.mount('#app')
 // 在 Vue 应用挂载后初始化插件
 router.isReady().then(() => {
   initPlugins()
+  checkRedirect()
 })

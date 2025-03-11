@@ -7,16 +7,8 @@
     // 单页应用 GitHub Pages 重定向
     (function(l) {
       console.log('---------------- 404重定向 ----------------')
-      console.log('🎯🎯🎯 l: ', JSON.parse(JSON.stringify(l)))
-      if (l.search[1] === '/') {
-        var decoded = l.search.slice(1).split('&').map(function(s) { 
-          return s.replace(/~and~/g, '&')
-        }).join('?');
-        console.log('🎯🎯🎯 decoded: ', JSON.parse(JSON.stringify(decoded)))
-        window.history.replaceState(null, null,
-            l.pathname.slice(0, -1) + decoded + l.hash
-        );
-      }
+      sessionStorage.setItem('redirect', l.pathname)
+      location.href = '/'
     }(window.location))
   </script>
 </head>
