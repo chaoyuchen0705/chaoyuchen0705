@@ -4,6 +4,19 @@
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="/favicon.avif" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Chaoyu Chen - Portfolio</title>
+    <script type="text/javascript">
+      // 单页应用 GitHub Pages 路由处理
+      ;(function (l) {
+        if (l.pathname.split('/').length > 2) {
+          var segment = l.pathname.split('/')[2]
+          if (segment !== 'index.html' && segment !== '') {
+            sessionStorage.redirect = l.pathname + l.search + l.hash
+            l.href = l.origin + '/' + l.pathname.split('/')[1] + '/index.html'
+          }
+        }
+      })(window.location)
+    </script>
   </head>
   <body>
     <script>
@@ -14,6 +27,16 @@
     </script>
     <div id="app"></div>
     <script type="module" src="/src/main.js"></script>
+    <script>
+      // 恢复路由
+      ;(function () {
+        var redirect = sessionStorage.redirect
+        delete sessionStorage.redirect
+        if (redirect && redirect !== location.href) {
+          history.replaceState(null, null, redirect)
+        }
+      })()
+    </script>
   </body>
   <!-- 添加第三方库 -->
   <script src="/js/jquery-3.4.1.min.js"></script>
