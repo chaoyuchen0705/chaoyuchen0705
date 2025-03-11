@@ -12,6 +12,8 @@ import './assets/styles/style-demo.css'
 // 导入插件初始化函数
 import { initPlugins } from './utils/plugins'
 
+import checkRedirect from './utils/checkRedirect'
+
 const app = createApp(App)
 redirect
 app.use(router)
