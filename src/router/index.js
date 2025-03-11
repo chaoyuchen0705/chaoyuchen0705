@@ -3,7 +3,7 @@ import AboutView from '../views/AboutView.vue'
 import ResumeView from '../views/ResumeView.vue'
 import ProjectsView from '../views/ProjectsView.vue'
 import ProjectDetailView from '../views/ProjectDetailView.vue'
-
+console.log('🎯🎯🎯 import.meta.env.BASE_URL: ', import.meta.env.BASE_URL)
 const router = createRouter({
   history: createWebHistory(),
   // history: createWebHistory(import.meta.env.BASE_URL),
