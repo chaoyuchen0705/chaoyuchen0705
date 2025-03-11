@@ -32,7 +32,7 @@ const router = createRouter({
     {
       path: '/:pathMatch(.*)*',
       redirect: (to) => {
-        console.log('to: ', to)
+        return { path: to.path.replace(/\/chaoyuchen0705/g, '') }
       },
     },
   ],
